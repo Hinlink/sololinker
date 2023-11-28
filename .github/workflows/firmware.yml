@@ -24,9 +24,6 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y \
-          adb \
-          android-sdk-platform-tools-common \
-          android-tools-adb \
           autoconf \
           automake \
           autopoint \
@@ -47,9 +44,7 @@ jobs:
           cpp \
           cpp-8 \
           cpp-9 \
-          curl \
           device-tree-compiler \
-          dos2unix \
           dosfstools \
           f2fs-tools \
           fakeroot \
@@ -65,12 +60,7 @@ jobs:
           genext2fs \
           gettext \
           gettext-base \
-          gfortran \
-          gfortran-8 \
-          gfortran-9 \
           ghostscript \
-          git \
-          git-man \
           lz4 \
           lzop \
           m4 \
@@ -82,7 +72,6 @@ jobs:
           mawk \
           mdadm \
           meson \
-          minicom \
           mtd-utils \
           mtools \
           ncurses-base \
@@ -92,14 +81,6 @@ jobs:
           ninja-build \
           openssl \
           perl \
-          python-apt \
-          python-apt-common \
-          python-gi \
-          python-gobject \
-          python-gobject-2 \
-          python-is-python2 \
-          python-pip-whl \
-          python-pkg-resources \
           python2 \
           python2-dev \
           python2-minimal \
@@ -119,27 +100,9 @@ jobs:
           python3.8-dev \
           python3.8-minimal \
           python3.8-venv \
-          qemu \
-          qemu-efi-aarch64 \
-          qemu-efi-arm \
-          qemu-system-arm \
-          qemu-system-common \
-          qemu-system-data \
-          qemu-system-x86 \
-          qemu-user-static \
-          qemu-utils \
-          rsync \
           squashfuse \
-          ssh \
-          ssh-import-id \
-          sshfs \
           texinfo \
           u-boot-tools \
-          usb-modeswitch \
-          usb-modeswitch-data \
-          usbutils \
-          uuid \
-          uuid-runtime \
           wget \
           bc \
           libssl-dev \
