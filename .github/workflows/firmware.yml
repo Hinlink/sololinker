@@ -1,6 +1,8 @@
 name: Sololinker Firmware build
-
+  
 on:
+  workflow_dispatch:
+  
   push:
     branches: [ "main" ]
   pull_request:
