@@ -2,3 +2,5 @@ docs/zh/isp/Rockchip_Tuning_Guide_ISP32_CN_v0.1.2.pdf filter=lfs diff=lfs merge=
 docs/ filter=lfs diff=lfs merge=lfs -text
 sysdrv/tools/board/rootfs_ubuntu.tar.gz filter=lfs diff=lfs merge=lfs -text
 tools/linux/SocToolKit/SocToolKit filter=lfs diff=lfs merge=lfs -text
+tools/ filter=lfs diff=lfs merge=lfs -text
+tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/ filter=lfs diff=lfs merge=lfs -text
