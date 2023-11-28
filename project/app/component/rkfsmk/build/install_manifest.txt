@@ -1,0 +1,2 @@
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/out/lib/librkfsmk.so
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/out/include/rkfsmk.h

@@ -1,0 +1,6 @@
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/build/CMakeFiles/edit_cache.dir
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/build/CMakeFiles/rebuild_cache.dir
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/build/CMakeFiles/list_install_components.dir
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/build/CMakeFiles/install.dir
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/build/CMakeFiles/install/local.dir
+/home/xianlee/workspace/hinlink/solo-linker/sdk/project/app/component/rkfsmk/build/CMakeFiles/install/strip.dir
