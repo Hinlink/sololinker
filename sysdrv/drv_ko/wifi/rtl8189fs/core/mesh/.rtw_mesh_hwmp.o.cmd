@@ -1,0 +1,27 @@
+cmd_/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o := /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/source/kernel/scripts/gcc-wrapper.py arm-rockchip830-linux-uclibcgnueabihf-gcc -Wp,-MMD,/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/.rtw_mesh_hwmp.o.d  -nostdinc -isystem /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/../lib/gcc/arm-rockchip830-linux-uclibcgnueabihf/8.3.0/include -I./arch/arm/include -I./arch/arm/include/generated  -I./include -I./arch/arm/include/uapi -I./arch/arm/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/kconfig.h -include ./include/linux/compiler_types.h -D__KERNEL__ -mlittle-endian -fmacro-prefix-map=./= -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Wno-format-security -std=gnu89 -fno-dwarf2-cfi-asm -fno-ipa-sra -mabi=aapcs-linux -mfpu=vfp -funwind-tables -mthumb -Wa,-mimplicit-it=always -Wa,-mno-warn-deprecated -D__LINUX_ARM_ARCH__=7 -march=armv7-a -msoft-float -Uarm -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -Os --param=allow-store-data-races=0 -Wframe-larger-than=2048 -fstack-protector -Werror -Wimplicit-fallthrough -Wno-unused-but-set-variable -Wno-unused-const-variable -fomit-frame-pointer -g -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wno-stringop-truncation -Wno-array-bounds -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -fno-strict-overflow -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wno-packed-not-aligned -Os -Wno-unused-variable -Wno-date-time -I/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/include -I/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/platform -I/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/hal/btc -DCONFIG_RTL8188F -DCONFIG_AP_MODE -DCONFIG_MP_INCLUDED -DCONFIG_EFUSE_CONFIG_FILE -DEFUSE_MAP_PATH=\"/system/etc/wifi/wifi_efuse_8189fs.map\" -DWIFIMAC_PATH=\"/data/wifimac.txt\" -DCONFIG_LOAD_PHY_PARA_FROM_FILE -DREALTEK_CONFIG_PATH=\"/lib/firmware/\" -DCONFIG_TXPWR_BY_RATE=1 -DCONFIG_TXPWR_BY_RATE_EN=1 -DCONFIG_TXPWR_LIMIT=1 -DCONFIG_TXPWR_LIMIT_EN=0 -DCONFIG_RTW_ADAPTIVITY_EN=0 -DCONFIG_RTW_ADAPTIVITY_MODE=0 -DCONFIG_IEEE80211W -DHIGH_ACTIVE_HST2DEV=0 -DCONFIG_RTW_SDIO_PM_KEEP_POWER -DCONFIG_BR_EXT '-DCONFIG_BR_EXT_BRNAME="'br0'"' -DCONFIG_RTW_NAPI -DCONFIG_RTW_GRO -DCONFIG_RTW_NETIF_SG -DCONFIG_RTW_DEBUG -DRTW_LOG_LEVEL=2 -DCONFIG_PROC_DEBUG -DCONFIG_RTW_UP_MAPPING_RULE=0 -DDM_ODM_SUPPORT_TYPE=0x04 -DCONFIG_LITTLE_ENDIAN -DCONFIG_PLATFORM_ROCKCHIPS -DCONFIG_IOCTL_CFG80211 -DRTW_USE_CFG80211_STA_EVENT -DCONFIG_CONCURRENT_MODE -DRTW_SUPPORT_PLATFORM_SHUTDOWN -I/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/hal/phydm -I/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/crypto  -DMODULE  -DKBUILD_BASENAME='"rtw_mesh_hwmp"' -DKBUILD_MODNAME='"8189fs"' -D__KBUILD_MODNAME=kmod_8189fs -c -o /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.c
+
+source_/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o := /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.c
+
+deps_/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o := \
+    $(wildcard include/config/rtw/mesh.h) \
+    $(wildcard include/config/rtw/mesh/on/dmd/gann.h) \
+    $(wildcard include/config/rtw/mesh/add/root/chk.h) \
+  include/linux/kconfig.h \
+    $(wildcard include/config/cc/version/text.h) \
+    $(wildcard include/config/cpu/big/endian.h) \
+    $(wildcard include/config/booger.h) \
+    $(wildcard include/config/foo.h) \
+  include/linux/compiler_types.h \
+    $(wildcard include/config/have/arch/compiler/h.h) \
+    $(wildcard include/config/enable/must/check.h) \
+    $(wildcard include/config/cc/has/asm/inline.h) \
+  include/linux/compiler_attributes.h \
+  include/linux/compiler-gcc.h \
+    $(wildcard include/config/arm64.h) \
+    $(wildcard include/config/retpoline.h) \
+    $(wildcard include/config/arch/use/builtin/bswap.h) \
+    $(wildcard include/config/kcov.h) \
+
+/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o: $(deps_/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o)
+
+$(deps_/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/core/mesh/rtw_mesh_hwmp.o):

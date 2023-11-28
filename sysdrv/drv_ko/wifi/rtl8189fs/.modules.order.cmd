@@ -1,0 +1,1 @@
+cmd_/home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/modules.order := {   echo /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/8189fs.ko; :; } | awk '!x[$$0]++' - > /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/sysdrv/drv_ko/wifi/rtl8189fs/modules.order

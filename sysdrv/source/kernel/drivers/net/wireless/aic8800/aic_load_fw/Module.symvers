@@ -1,0 +1,3 @@
+0x00000000	get_userconfig_txpwr_ofst	/home/haixinyu/workspace/aic/release/android_driver/USB/driver_fw/drivers/aic8800/aic_load_fw/aic_load_fw	EXPORT_SYMBOL	
+0x00000000	get_hardware_info	/home/haixinyu/workspace/aic/release/android_driver/USB/driver_fw/drivers/aic8800/aic_load_fw/aic_load_fw	EXPORT_SYMBOL	
+0x00000000	get_userconfig_txpwr_idx	/home/haixinyu/workspace/aic/release/android_driver/USB/driver_fw/drivers/aic8800/aic_load_fw/aic_load_fw	EXPORT_SYMBOL	

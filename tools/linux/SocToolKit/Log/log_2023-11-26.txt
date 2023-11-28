@@ -1,0 +1,17 @@
+2023-11-26 11:23:38,445:    TookKit v1.87 for ['RK3588', 'RK3566', 'RK3568', 'RV1106', 'RV1126', 'RV1103']
+2023-11-26 11:23:38,918:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:25:30,756:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:08,256:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:23,756:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:27,256:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:27,756:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:29,255:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:43,757:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:26:51,256:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:27:11,256:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:27:16,756:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:27:18,757:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:27:27,756:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:34:24,756:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 11:34:33,257:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
+2023-11-26 13:38:11,256:    /home/xianlee/workspace/hinlink/solo-linker/rv1106_sdk_ubuntu_lvgl/tools/linux/SocToolKit/bin/linux/upgrade_tool ld
