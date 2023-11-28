@@ -111,7 +111,9 @@ jobs:
 
     - name: Lunch
       run: echo ${{ matrix.lunch_option }} | ./build.sh lunch
-        ./build.sh
+    
+    - name: build_all
+      run: ./build.sh
 
     - name: Package and Upload Firmware
       run: |
