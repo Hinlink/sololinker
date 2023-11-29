@@ -11,7 +11,7 @@ CURRENT_DIR := $(shell pwd)
 
 PKG_INSTALL_TO_ROOTFS ?= YES
 PKG_NAME := lvgl_app
-PKG_BIN ?= out
+PKG_BIN ?= output/release
 PKG_BUILD ?= build
 
 CURRENT_DIR := $(shell pwd)
@@ -20,7 +20,7 @@ CURRENT_DIR := $(shell pwd)
 TOOLCHAIN_FILE := ../cmake/toolchainfile-rv1106.cmake
 
 # Set the install prefix
-INSTALL_PREFIX := $(PKG_BIN)
+INSTALL_PREFIX := release
 
 # Set the source directory
 SOURCE_DIR := ..
